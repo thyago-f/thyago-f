@@ -2,8 +2,10 @@
 
 **`Analista de dados`**
 
-Me chamo Thyago França Santos, tenho 31 anos e sou natural de Aracaju - SE. Estou cursando Sistemas de informação na Faculdade Estácio. Sou apaixonado em transformar dados brutos em insights relevantes, atualmente ocupo uma posição de Analista de MIS com mais de 4 anos de experiência.
-
+<div>
+Eu me chamo Thyago França Santos, natural de Aracaju - SE. Tenho 31 anos e estou cursando Sistema de informação na Faculdade Estácio. Apaixonado por tecnologia e analise de dados, focado em transformar dados brutos em insights relavantes. Atualmente ocupo uma posição estratégica como Analista de MIS com foco em ETL e analise de dados.
+</div>
+   
    <p align="left">
       <a href="https://github.com/thyago-f?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/thyago-f?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
