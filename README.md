@@ -76,9 +76,9 @@ Eu me chamo Thyago França Santos, natural de Aracaju - SE. Tenho 31 anos e esto
 ## 📊 Estatísticas do meu perfil
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thyago-f&show_icons=true&theme=radical&hide=prs,issues,contribs"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyago-f&layout=compact&theme=radical"/>
-  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=thyago-f&theme=radical&hide_border=false"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=thyago-f&show_icons=true&theme=radical&hide=prs,issues,contribs"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyago-f&layout=compact&theme=radical"/>
+  <img height="200em" src="https://nirzak-streak-stats.vercel.app/?user=thyago-f&theme=radical&hide_border=false"/>
 </div> 
 
 ## 🌐 Contato
