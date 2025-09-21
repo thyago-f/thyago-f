@@ -82,7 +82,5 @@ Eu me chamo Thyago França Santos, natural de Aracaju - SE. Tenho 31 anos e esto
 </div> 
 
 ## 🌐 Contato
-<!-- [![LinkedIn](https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg)](https://linkedin.com/in/npimentel1/) 
-[![email](https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Outlook.svg)](mailto:nikollas_p@hotmail.com) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thyago-fran%C3%A7a-santos-533407128/) 
 [![Email](https://img.shields.io/badge/Gmail-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thyagopkr@gmail.com)
