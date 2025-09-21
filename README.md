@@ -13,7 +13,7 @@ Me chamo Thyago França Santos, tenho 31 anos e sou natural de Aracaju - SE. Est
 
 ---
 
-### 🤖 Liguagens e tecnologias
+### 🤖 linguagens e tecnologias
 
 <div>
     <img 
