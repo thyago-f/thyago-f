@@ -97,6 +97,13 @@ Eu me chamo Thyago França Santos, natural de Aracaju - SE. Tenho 31 anos e esto
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thyago-f&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-## 🌐 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thyago-fran%C3%A7a-santos-533407128/) 
-[![Email](https://img.shields.io/badge/Gmail-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thyagopkr@gmail.com)
+
+# 🌐 Contato
+<div align="left">
+  <a href="https://www.linkedin.com/in/thyago-fran%C3%A7a-santos-533407128/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
